@@ -54,7 +54,7 @@
 
 
 <p align='right'>
-<h4>💬  Sometimes I like to write things here...</h4>
+<h4>💬  My website...</h4>
   <a href="https://eng-marwan.com/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
