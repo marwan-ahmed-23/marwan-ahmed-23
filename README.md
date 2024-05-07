@@ -11,6 +11,8 @@
 
 <hr>
 
+
+<--
 <h4>🔭  I’m currently working with ...</h4>
 
 <h5>UI Developer</h5>
@@ -28,7 +30,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-
+-->
 
 <p align='right'>
 <h4>💬  Sometimes I like to write things here...</h4>
