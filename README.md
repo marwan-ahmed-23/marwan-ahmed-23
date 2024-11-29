@@ -17,7 +17,7 @@ I strive to merge creativity with technical expertise to develop tools and servi
 ---
 
 ## Get in Touch
-- **Email**: marwan@eng-marwan.com
+- **Email**: info@eng-marwan.com
 - **Website**: [eng-marwan.com](https://eng-marwan.com)
 - **LinkedIn**: [Marwan Ahmed](https://www.linkedin.com/in/marwan-ah)
 - **GitHub**: [marwan-ahmed-23](https://github.com/marwan-ahmed-23)
