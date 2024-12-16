@@ -1,4 +1,4 @@
-## Hi
+## Hi 👋
 
 I'm **Marwan Ahmed**, a passionate and versatile software developer with a strong background in creating innovative and efficient solutions for web and mobile platforms. With years of experience in software development, I specialize in building scalable, user-focused applications while maintaining high standards of code quality and performance.
 
